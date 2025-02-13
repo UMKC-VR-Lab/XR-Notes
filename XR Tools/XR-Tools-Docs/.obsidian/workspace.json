@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "40e27be852da4c58",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba342c5b2bb6440e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67f9057e4d0a1fc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Components/Point Constraints.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Point Constraints"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e0db12dfe7cdd6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d723e973b728108",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58754d18ca72b4cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "554a17be53b58baf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bb5e31c0e5ae0025",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 205.5
+  },
+  "right": {
+    "id": "9d37d974e6e78bd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef6c0f173c8f0cee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a20a92f1329e0e56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6d4defd5338adb08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1588171c38b62c8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1dff7fce50af9477",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "67f9057e4d0a1fc2",
+  "lastOpenFiles": [
+    "Components/Volume Trigger.md",
+    "Components/Transform Controller.md",
+    "Components/Time Trigger.md",
+    "Components/Progression Manager.md",
+    "Components/Point Constraints.md",
+    "Components/Material Controller.md",
+    "Components/Game Object Events.md",
+    "Grant Writing/Grant Sources.md",
+    "Grant Writing",
+    "Components/Match Transform.md",
+    "XR Tools.md",
+    "Components",
+    "Components.md",
+    "Welcome.md"
+  ]
+}
